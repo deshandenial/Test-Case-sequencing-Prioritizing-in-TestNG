@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35546" started-at="2019-09-02T18:09:26 IST" finished-at="2019-09-02T18:10:01 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35546" started-at="2019-09-02T18:09:26 IST" finished-at="2019-09-02T18:10:01 IST">
+      <class name="com.Test_Case_sequencing_in_TestNG.Demo_Test_Case_sequencing_in_TestNG">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.Test_Case_sequencing_in_TestNG.Demo_Test_Case_sequencing_in_TestNG@52a86356]" name="beforeTest" is-config="true" duration-ms="13362" started-at="2019-09-02T18:09:26 IST" finished-at="2019-09-02T18:09:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Test_Case_sequencing_in_TestNG2()[pri:0, instance:com.Test_Case_sequencing_in_TestNG.Demo_Test_Case_sequencing_in_TestNG@52a86356]" name="Test_Case_sequencing_in_TestNG2" duration-ms="5617" started-at="2019-09-02T18:09:39 IST" finished-at="2019-09-02T18:09:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Case_sequencing_in_TestNG2 -->
+        <test-method status="PASS" signature="Test_Case_sequencing_in_TestNG3()[pri:1, instance:com.Test_Case_sequencing_in_TestNG.Demo_Test_Case_sequencing_in_TestNG@52a86356]" name="Test_Case_sequencing_in_TestNG3" duration-ms="5726" started-at="2019-09-02T18:09:45 IST" finished-at="2019-09-02T18:09:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Case_sequencing_in_TestNG3 -->
+        <test-method status="PASS" signature="Test_Case_sequencing_in_TestNG1()[pri:2, instance:com.Test_Case_sequencing_in_TestNG.Demo_Test_Case_sequencing_in_TestNG@52a86356]" name="Test_Case_sequencing_in_TestNG1" duration-ms="10399" started-at="2019-09-02T18:09:50 IST" finished-at="2019-09-02T18:10:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Case_sequencing_in_TestNG1 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.Test_Case_sequencing_in_TestNG.Demo_Test_Case_sequencing_in_TestNG@52a86356]" name="afterTest" is-config="true" duration-ms="374" started-at="2019-09-02T18:10:01 IST" finished-at="2019-09-02T18:10:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.Test_Case_sequencing_in_TestNG.Demo_Test_Case_sequencing_in_TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

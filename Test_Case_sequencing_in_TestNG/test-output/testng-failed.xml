@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.Test_Case_sequencing_in_TestNG.Demo_Test_Case_sequencing_in_TestNG">
+        <methods>
+          <include name="afterTest"/>
+          <include name="Test_Case_sequencing_in_TestNG2"/>
+          <include name="Test_Case_sequencing_in_TestNG1"/>
+          <include name="Test_Case_sequencing_in_TestNG3"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.Test_Case_sequencing_in_TestNG.Demo_Test_Case_sequencing_in_TestNG -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
